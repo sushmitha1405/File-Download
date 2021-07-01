@@ -1,0 +1,2 @@
+NormItemID: NSMKTTESTMETADATAH
+ProductHierarchy1: A-SER
